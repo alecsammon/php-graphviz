@@ -1,0 +1,20 @@
+{
+    "name": "alecsammon/php-graphviz",
+    "type": "library",
+    "description": "A php wrapper for GraphViz",
+    "homepage": "https://github.com/alecsammon/php-graphviz",
+    "license": "PHP-3.0",
+
+    "authors": [
+        {
+            "name": "Alec Sammon",
+            "email": "alec.sammon@googlemail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Graphviz\\": "src/"
+        }
+    }
+}
